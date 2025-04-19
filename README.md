@@ -4,6 +4,7 @@ AI companion for mental wellness support
 
 Final project for the Building AI course
 
+![MindMate User Journey](/AI-Powered_Mental_Health_Companion_User_Journey.png)
 ## Summary
 
 MindMate is an AI-powered mental health companion designed to support individuals experiencing stress, anxiety, or depression. It provides real-time mood tracking, personalized coping strategies, and access to mental wellness resources through a user-friendly mobile app.
